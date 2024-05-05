@@ -1,4 +1,4 @@
 # gitdemo
 This is my first git repository
 <br>
-Author - Sanjana Jana
+Author - Sanjana[git]
